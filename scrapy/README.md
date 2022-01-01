@@ -1,10 +1,8 @@
 # Scrapy
 
 
-![image](https://user-images.githubusercontent.com/47721834/147853860-173f77de-6358-4e35-be07-097f1d46134b.png)
-
-![image](https://user-images.githubusercontent.com/47721834/147853871-55c24afb-db40-47a8-b990-d057f6db0a25.png)
+![image](https://user-images.githubusercontent.com/47721834/147853996-2d01a27a-8194-4591-aedd-e14e58e5517a.png)
 
 
-#### Run the above file using the command
+### Run the above file using the command
 ### `scrapy runspider flipkart.py -o flipkart_output.csv -t csv`
