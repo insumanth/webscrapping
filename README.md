@@ -15,6 +15,7 @@ Sample Repository with basic web scrapping
 - The below mentioned Python Packages 📦
 
     - `pip install lxml`
+    - `pip install Scrapy`
     - `pip install requests`
     - `pip install gTTS` (Optional)
 
@@ -43,3 +44,6 @@ Sample Repository with basic web scrapping
 > `mp3` data to a file, a file-like object (bytestring) for further
 > audio manipulation, or `stdout`. Or simply pre-generate Google
 > Translate TTS request URLs to feed to an external program.
+
+
+![https://media.giphy.com/media/lwUrVXH9dmSTCw9Gmi/giphy.gif]
