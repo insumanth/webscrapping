@@ -25,6 +25,12 @@ Sample Repository with basic web scrapping
 > libraries. It provides safe and convenient access to these libraries
 > using the ElementTree API.
 
+####  [Scrapy](https://pypi.org/project/Scrapy/):
+
+> **Scrapy** is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
+
+
+
 #### [Requests](https://pypi.org/project/requests/):
 
 > **Requests** is a simple, yet elegant, HTTP library. Requests allows you to send HTTP/1.1 requests extremely easily. There’s no need to
