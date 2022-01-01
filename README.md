@@ -46,4 +46,5 @@ Sample Repository with basic web scrapping
 > Translate TTS request URLs to feed to an external program.
 
 
-![https://media.giphy.com/media/lwUrVXH9dmSTCw9Gmi/giphy.gif]
+
+![image]()
