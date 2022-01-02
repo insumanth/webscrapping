@@ -8,7 +8,7 @@ Sample Repository with basic web scrapping
 
 ### You can find all the resources here.
 
-- [Presentation Link](http://example.com/)
+- [Presentation Link](https://docs.google.com/presentation/d/1sshPdFela11THhAR1SNLemhHRfNKoxN2_zV0-WXxZuA/edit?usp=sharing)
 
 ### Environment Needed 
 - Python 3 🐍
